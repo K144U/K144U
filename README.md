@@ -1,4 +1,4 @@
-![alt text for screen readers](https://drive.google.com/file/d/1h4yiE-rVMIet01QB05ZkKr97j_gB5Cvt/view?usp=sharing "Text to show on mouseover")
+![alt text for screen readers](https://github.com/K144U/K144U.github.io/blob/main/assets/ezgif-2-69c804454f.gif "Text to show on mouseover")
 
 
 - 👋 Hi, I’m @K144U
