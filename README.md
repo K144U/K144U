@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sankalp Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.seadn.io/gae/A-1G8Zy1gxJV1Wk4yJFtTyMBQFs6Ow91r_BkdmzJLYpFJpv7XPmn3jVl1hI0m5IVL4GRfpzbjbJQmt9T6PQDIFO2bI8gYUSz2H0PhA?auto=format&dpr=1&w=1000">
+<img align="center" alt="coding" width="400" src="https://i.seadn.io/gae/A-1G8Zy1gxJV1Wk4yJFtTyMBQFs6Ow91r_BkdmzJLYpFJpv7XPmn3jVl1hI0m5IVL4GRfpzbjbJQmt9T6PQDIFO2bI8gYUSz2H0PhA?auto=format&dpr=1&w=1000">
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
