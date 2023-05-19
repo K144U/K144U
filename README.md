@@ -16,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k144u&show_icons=true&locale=en" alt="k144u" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k144u&" alt="k144u" /></p>
-![09c62903beeba336dc9da76eb5c9a107](https://github.com/K144U/K144U/assets/95154157/64239264-ad56-4852-90b3-f6b1b782c96f)
