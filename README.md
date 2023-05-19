@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankalp Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(https://github.com/K144U/K144U/assets/95154157/2a455e4c-00bd-426d-8159-a5e16f131574)
+![Uploading ezgif-3-5f72c71097.gif…]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
