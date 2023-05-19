@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1200" height="300" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">
+<img align="right" alt="coding" width="1200" height="500" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">
 <br>
 <h1 align="center">Hi 👋, I'm Sankalp Pathak</h1>
 <h3 align="center">A passionate developer from India</h3>
