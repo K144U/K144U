@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on [ThreeJS Projects](https://github.com/k144u/Keyboard)  
+- 🔭 I’m currently working on [ThreeJS]([https://github.com/k144u/Keyboard](https://github.com/K144U/threejs))  
 - 🌱 I’m currently learning Computer vision 
 - ❓ Ask me about anything related to Blender, UI/UX and related stuff.  
 <br/>
